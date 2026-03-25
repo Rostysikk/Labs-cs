@@ -1,0 +1,16 @@
+C:\Users\stud_centr32\source\repos\ModulKR2\bin\Debug\net5.0\ModulKR2.exe
+C:\Users\stud_centr32\source\repos\ModulKR2\bin\Debug\net5.0\ModulKR2.deps.json
+C:\Users\stud_centr32\source\repos\ModulKR2\bin\Debug\net5.0\ModulKR2.runtimeconfig.json
+C:\Users\stud_centr32\source\repos\ModulKR2\bin\Debug\net5.0\ModulKR2.runtimeconfig.dev.json
+C:\Users\stud_centr32\source\repos\ModulKR2\bin\Debug\net5.0\ModulKR2.dll
+C:\Users\stud_centr32\source\repos\ModulKR2\bin\Debug\net5.0\ref\ModulKR2.dll
+C:\Users\stud_centr32\source\repos\ModulKR2\bin\Debug\net5.0\ModulKR2.pdb
+C:\Users\stud_centr32\source\repos\ModulKR2\obj\Debug\net5.0\ModulKR2.csproj.AssemblyReference.cache
+C:\Users\stud_centr32\source\repos\ModulKR2\obj\Debug\net5.0\ModulKR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud_centr32\source\repos\ModulKR2\obj\Debug\net5.0\ModulKR2.AssemblyInfoInputs.cache
+C:\Users\stud_centr32\source\repos\ModulKR2\obj\Debug\net5.0\ModulKR2.AssemblyInfo.cs
+C:\Users\stud_centr32\source\repos\ModulKR2\obj\Debug\net5.0\ModulKR2.csproj.CoreCompileInputs.cache
+C:\Users\stud_centr32\source\repos\ModulKR2\obj\Debug\net5.0\ModulKR2.dll
+C:\Users\stud_centr32\source\repos\ModulKR2\obj\Debug\net5.0\ref\ModulKR2.dll
+C:\Users\stud_centr32\source\repos\ModulKR2\obj\Debug\net5.0\ModulKR2.pdb
+C:\Users\stud_centr32\source\repos\ModulKR2\obj\Debug\net5.0\ModulKR2.genruntimeconfig.cache
